@@ -1,12 +1,58 @@
 # Helpful Links
 
+<details>
+  <summary>Table Of Contents</summary>
+
+- [Topography](#topography)
+  - [Components](#components)
+  - [Icons and Graphics](#icons-and-graphics)
+  - [Fonts](#fonts)
+  - [Backgrounds](#backgrounds)
+- [Group Collaboration Links](#group-collaboration-links)
+  - [Crossing the Net](#crossing-the-net)
+  - [Communication](#communication)
+  - [Group Development](#group-development)
+  - [Triangle Constraint](#triangle-constraint)
+- [Making Your Project Accessible](#making-your-project-accessible)
+- [Project Tools](#project-tools)
+  - [Wireframing](#wireframing)
+  - [Project Management](#project-management)
+  - [Other Tools](#other-tools)
+- [Blogging](#blogging)
+- [Job Hunt Links](#job-hunt-links)
+  - [SpreadSheets for Job Search](#spreadsheets-for-job-search)
+  - [Informational Interviewing (Coffee Chats)](#informational-interviewing-coffee-chats)
+  - [How to Connect with People](#how-to-connect-with-people)
+  - [Resumes](#resumes)
+  - [Hiration Resume Tool](#hiration-resume-tool)
+  - [Linkedin](#linkedin)
+  - [Portfolio](#portfolio)
+  - [Porfolio Tools](#porfolio-tools)
+  - [Interviewing](#interviewing)
+  - [Data Structures and Algorithms](#data-structures-and-algorithms)
+  - [Debugging](#debugging)
+  - [Take-Home Assessments](#take-home-assessments)
+  - [System Design](#system-design)
+  - [Salary Negotiation](#salary-negotiation)
+  - [Company Research](#company-research)
+  - [Cover Letters](#cover-letters)
+  - [Resume Testing Tools](#resume-testing-tools)
+
+</details>
+
 ## Topography
+
+### Components
+
+- [DaisyUI](https://daisyui.com/) - Tailwind CSS Components.
+- [MaterialUI](https://material-ui.com/) - React Components.
 
 ### Icons and Graphics
 
 - [TheNounProject](http://thenounproject.com/) - Flat icons for all uses.
 - [Ikons](http://ikons.piotrkwiatkowski.co.uk/) - Free pack of 264 vector icons.
 - [IcoMoon](https://icomoon.io/) - Free icon fonts.
+- [Lucide](https://lucide.dev/) - Free icon set.
 
 ### Fonts
 
@@ -47,7 +93,7 @@
 - [Google](https://support.google.com/chromebook/answer/7031755) - Accessibility for Google products.
 - [nvAccess](https://www.nvaccess.org/) - Free Accessibility software
 
-## Projecet Tools
+## Project Tools
 
 ### Wireframing
 
@@ -71,7 +117,7 @@
 
 - [Sunnyg](https://blog.sunnyg.io/2015/09/24/ghost-with-github/) - GhostBlogs with Github.
 
-## Career Links
+## Job Hunt Links
 
 ### SpreadSheets for Job Search
 
@@ -141,7 +187,7 @@
 - [GitLab](https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_new_project_template.html) - How to create a gitlab page website from project template
 - [GoogleDocs](https://docs.google.com/document/d/1c5nL6gRBh2SS0xRhWEwf1HZOYAfo35EakDy1jnYKFgw/edit#heading=h.tpmp08n463lm) - Portfolio Checklist
 
-#### Porfolio Tools
+### Porfolio Tools
 
 - [Wix](https://www.wix.com/) - Free Portfolio Website Builder
 - [Webflow](https://webflow.com/) - Free Portfolio Website Builder
@@ -162,6 +208,34 @@
 - [Vimeo](https://vimeo.com/719977271/12bed4bf0e) - Start Interview Method Pt1
 - [Vimeo](https://vimeo.com/719976794/f97b056671) - Start Interview Method Pt2
 - [GoogleSheets](https://docs.google.com/spreadsheets/d/12LUti1e2PMZfLqmGO-4x6guth0Awf_EvLaIc08iVadI/edit#gid=0) - Start Interview Template
+
+### Data Structures and Algorithms
+
+- [GoogleDocs](https://docs.google.com/document/d/175T8AHkdmR9tqHMt5ybQ7JzHIzRjL4DjwCkYR3__AXA/edit) - Data Structures and Algorithms Slides
+- [GoogleDocs](https://docs.google.com/document/d/1jinTbt4nf2Li3aHfMJ-2rjzQQN6hUcUK30Ql2zC8gqM/edit) - Arrays
+- [GoogleDocs](https://docs.google.com/document/d/1Ug7UGVfCHTsLcJ1W_sENzCHeCnccT8AxbvlHmGcC7Lw/edit) - Linked Lists
+- [GoogleDocs](https://docs.google.com/document/d/167yv_Qe1qIOD904wdjErgRL_2v82d91ORXK3OhlRCJ8/edit) - Hash Tables
+- [GoogleSlides](https://docs.google.com/presentation/d/1UK7WTQHOPGTzih2EQWfbdFC_jQqO9JPR5DetyVuJy9U/edit#slide=id.gbe7ad3c20e_0_75) - Hash Tables
+- [GoogleDocs](https://docs.google.com/document/u/0/d/1SKBhRjv0LhjKvUg33K-3bEloPy7n-GH_ibQz5DU8TFk/edit) - Sorting Algorithms
+- [GoogleDocs](https://docs.google.com/presentation/u/0/d/1qWb8_47fk6uRfNlTmdbD7qEOLvrJHok_DbhbddPoow4/edit) - Sorting Visualizations / Videos
+- [GoogleDocs](https://docs.google.com/document/u/0/d/1AWq6mk8h2PqXxZXw4IiajK875RKL4kpPSSNpc2QirRY/edit) - Binary Search Trees
+- [GoogleDocs](https://docs.google.com/presentation/d/1-Su7zz7nWc2rN_Z_qcXY7-GhE5UFhx0e5HvrRxon-9A/edit?usp=sharing) - Binary Tree, BST, Heap
+- [Github](https://github.com/tsiege/Tech-Interview-Cheat-Sheet) - Data Structures and Algorithms Cheat Sheet
+
+### Debugging
+
+- [GoogleDocs](https://docs.google.com/document/u/0/d/15FGbPNfcfay1SyEbEu_f74dWs6CdAZpb9AQAkX8ErTA/edit) - Debugging Basics
+- [ChromeDocs](https://developers.google.com/web/tools/chrome-devtools/javascript) - Chrome Dev Tools
+- [VSCode Docs](https://code.visualstudio.com/docs/introvideos/debugging) - Debugging in VSCode
+
+### Take-Home Assessments
+
+- [GoogleDocs](https://docs.google.com/document/u/0/d/1vVf2W7WCqgeVyY075pEBTkK_4LPHUbar0QX6WX1jmSY/edit) - Best Practices README
+- [GoogleDocs](https://docs.google.com/document/d/1wpoXCJf7Q0u8_OPZlNE8Bfb4jQ2ABozKMgdSsMcnzT0/edit?usp=sharing)
+
+### System Design
+
+- [GoogleDocs](https://docs.google.com/document/d/1zaWjm1QDZawoKZS7KItezTrmtQJ8kmLeydT0OPjNKt4/edit#heading=h.zh05gba1vy) - System Design Crash Course
 
 ### Salary Negotiation
 
